@@ -95,8 +95,8 @@ const Detail = () => {
     [DETAIL, fetchConfig],
     async () => {
       const response = await axios({
-        url: fetchConfig!.url,
-        headers: fetchConfig!.headers
+        url: fetchConfig?.url,
+        headers: fetchConfig?.headers
       }).then((response) => response.data);
 
       if (response.error) throw new Error(JSON.stringify(response.error));

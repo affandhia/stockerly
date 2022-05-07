@@ -13,13 +13,13 @@ const useCopyImage = ({ src }: { src: string }) => {
     if (canvasRef.current) {
       const canvas = canvasRef.current;
       if (canvas.getContext) {
-        const ctx2d = canvas.getContext("2d")!;
+        const ctx2d = canvas.getContext("2d");
 
         const img1 = new Image();
 
         img1.onload = function () {
           //draw background image
-          ctx2d.drawImage(img1, 0, 0, 100, 100);
+          ctx2d?.drawImage(img1, 0, 0, 100, 100);
         };
 
         img1.crossOrigin = "anonymous";
