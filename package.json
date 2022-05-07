@@ -6,7 +6,7 @@
   "main": "src/index.tsx",
   "dependencies": {
     "@emotion/react": "11.4.1",
-    "@emotion/styled": "11.3.0",
+    "@emotion/styled": "11.8.1",
     "@mui/icons-material": "5.6.2",
     "@mui/material": "5.6.4",
     "@types/lodash": "4.14.172",
@@ -35,5 +35,10 @@
     "eject": "react-scripts eject",
     "typecheck": "npm run tsc"
   },
-  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
