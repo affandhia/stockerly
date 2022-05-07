@@ -2,7 +2,7 @@
   "name": "stockerly",
   "version": "1.0.0",
   "description": "",
-  "homepage": ".",
+  "homepage": "https://affandhia.github.io/stockerly",
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
