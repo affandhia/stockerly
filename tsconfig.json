@@ -6,7 +6,7 @@
         "strict": true,
         "esModuleInterop": true,
         "typeRoots": [
-            "src/types"
+            "@types"
         ],
         "lib": [
             "dom",
