@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "./static/js/main.3b91da0e.chunk.js",
-    "main.js.map": "./static/js/main.3b91da0e.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.30730b9d.js",
-    "runtime-main.js.map": "./static/js/runtime-main.30730b9d.js.map",
-    "static/js/2.890421e2.chunk.js": "./static/js/2.890421e2.chunk.js",
-    "static/js/2.890421e2.chunk.js.map": "./static/js/2.890421e2.chunk.js.map",
-    "index.html": "./index.html",
-    "static/js/2.890421e2.chunk.js.LICENSE.txt": "./static/js/2.890421e2.chunk.js.LICENSE.txt"
+    "main.js": "/stockerly/static/js/main.3b91da0e.chunk.js",
+    "main.js.map": "/stockerly/static/js/main.3b91da0e.chunk.js.map",
+    "runtime-main.js": "/stockerly/static/js/runtime-main.e2895092.js",
+    "runtime-main.js.map": "/stockerly/static/js/runtime-main.e2895092.js.map",
+    "static/js/2.890421e2.chunk.js": "/stockerly/static/js/2.890421e2.chunk.js",
+    "static/js/2.890421e2.chunk.js.map": "/stockerly/static/js/2.890421e2.chunk.js.map",
+    "index.html": "/stockerly/index.html",
+    "static/js/2.890421e2.chunk.js.LICENSE.txt": "/stockerly/static/js/2.890421e2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.30730b9d.js",
+    "static/js/runtime-main.e2895092.js",
     "static/js/2.890421e2.chunk.js",
     "static/js/main.3b91da0e.chunk.js"
   ]
