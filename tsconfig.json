@@ -5,6 +5,9 @@
     "compilerOptions": {
         "strict": true,
         "esModuleInterop": true,
+        "typeRoots": [
+            "src/types"
+        ],
         "lib": [
             "dom",
             "es2015"
