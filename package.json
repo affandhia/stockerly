@@ -2,6 +2,7 @@
   "name": "stockerly",
   "version": "1.0.0",
   "description": "",
+  "homepage": ".",
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
