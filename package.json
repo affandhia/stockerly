@@ -1,0 +1,38 @@
+{
+  "name": "stockerly",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@emotion/react": "11.4.1",
+    "@emotion/styled": "11.3.0",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
+    "@types/lodash": "4.14.172",
+    "@types/react": "17.0.21",
+    "@types/react-dom": "17.0.9",
+    "axios": "0.21.4",
+    "lodash": "4.17.21",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-lazyload": "3.2.0",
+    "react-query": "3.23.2",
+    "react-responsive-masonry": "2.1.3",
+    "react-scripts": "4.0.3",
+    "react-use": "17.3.1",
+    "recoil": "0.4.1"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.20",
+    "@types/react-dom": "17.0.9",
+    "typescript": "4.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
